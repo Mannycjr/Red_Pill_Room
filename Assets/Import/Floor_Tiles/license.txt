@@ -1,0 +1,11 @@
+Model Information:
+* title:	Floor Tiles
+* source:	https://sketchfab.com/3d-models/floor-tiles-1777b039eced42b48b702942bc14db95
+* author:	antoniojmonteiro (https://sketchfab.com/antoniojmonteiro)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Floor Tiles" (https://sketchfab.com/3d-models/floor-tiles-1777b039eced42b48b702942bc14db95) by antoniojmonteiro (https://sketchfab.com/antoniojmonteiro) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
