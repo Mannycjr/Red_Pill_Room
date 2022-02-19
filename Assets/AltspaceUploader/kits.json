@@ -1,3 +1,19 @@
 {
-    "uploadEntries": []
+    "uploadEntries": [
+        {
+            "AltspaceId": "1931573356612550957",
+            "Name": "Energy Cell Yellow MYC",
+            "IsEnabled": true,
+            "UploadItems": [
+                {
+                    "PrefabFilepath": "Assets\\HiTech\\Energy\\EnergyCell_1\\Prefabs\\EnergyCell_1_2.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                }
+            ],
+            "PerPlatformAssets": false,
+            "HideContents": false
+        }
+    ]
 }
