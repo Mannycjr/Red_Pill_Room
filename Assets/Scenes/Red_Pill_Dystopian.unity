@@ -696,7 +696,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5383453487479695605, guid: 7aad2c800f0528d48a5ba81b96316388, type: 3}
       propertyPath: m_RootOrder
-      value: 43
+      value: 44
       objectReference: {fileID: 0}
     - target: {fileID: 5383453487479695605, guid: 7aad2c800f0528d48a5ba81b96316388, type: 3}
       propertyPath: m_LocalPosition.x
@@ -914,7 +914,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 409126, guid: 60f5c85eb76f96246aad42e84f56dbf8, type: 3}
       propertyPath: m_RootOrder
-      value: 35
+      value: 36
       objectReference: {fileID: 0}
     - target: {fileID: 409126, guid: 60f5c85eb76f96246aad42e84f56dbf8, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1963,7 +1963,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 442968, guid: 735aa2c3e6e189d428ab152c62770323, type: 3}
       propertyPath: m_RootOrder
-      value: 37
+      value: 38
       objectReference: {fileID: 0}
     - target: {fileID: 442968, guid: 735aa2c3e6e189d428ab152c62770323, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2243,7 +2243,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 499482, guid: 240448642911df046896b35680f9a5dc, type: 3}
       propertyPath: m_RootOrder
-      value: 32
+      value: 33
       objectReference: {fileID: 0}
     - target: {fileID: 499482, guid: 240448642911df046896b35680f9a5dc, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2345,7 +2345,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 487618, guid: 89bd4543a5407754f9caa0dbd4e0992d, type: 3}
       propertyPath: m_RootOrder
-      value: 31
+      value: 32
       objectReference: {fileID: 0}
     - target: {fileID: 487618, guid: 89bd4543a5407754f9caa0dbd4e0992d, type: 3}
       propertyPath: m_LocalScale.x
@@ -2421,22 +2421,6 @@ PrefabInstance:
     - target: {fileID: 1156785199505330, guid: 4f19cb45b6027fd46b768dae90e31858, type: 3}
       propertyPath: m_Name
       value: Crate_0_6
-      objectReference: {fileID: 0}
-    - target: {fileID: 1156785199505330, guid: 4f19cb45b6027fd46b768dae90e31858, type: 3}
-      propertyPath: m_Layer
-      value: 14
-      objectReference: {fileID: 0}
-    - target: {fileID: 1171504399742476, guid: 4f19cb45b6027fd46b768dae90e31858, type: 3}
-      propertyPath: m_Layer
-      value: 14
-      objectReference: {fileID: 0}
-    - target: {fileID: 1478790040069732, guid: 4f19cb45b6027fd46b768dae90e31858, type: 3}
-      propertyPath: m_Layer
-      value: 14
-      objectReference: {fileID: 0}
-    - target: {fileID: 1756592378815170, guid: 4f19cb45b6027fd46b768dae90e31858, type: 3}
-      propertyPath: m_Layer
-      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 4621139528266798, guid: 4f19cb45b6027fd46b768dae90e31858, type: 3}
       propertyPath: m_RootOrder
@@ -2651,7 +2635,7 @@ GameObject:
   m_Component:
   - component: {fileID: 720615225}
   - component: {fileID: 720615226}
-  m_Layer: 14
+  m_Layer: 0
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2860,22 +2844,6 @@ PrefabInstance:
     - target: {fileID: 1156785199505330, guid: 4f19cb45b6027fd46b768dae90e31858, type: 3}
       propertyPath: m_Name
       value: Crate_0_6 (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1156785199505330, guid: 4f19cb45b6027fd46b768dae90e31858, type: 3}
-      propertyPath: m_Layer
-      value: 14
-      objectReference: {fileID: 0}
-    - target: {fileID: 1171504399742476, guid: 4f19cb45b6027fd46b768dae90e31858, type: 3}
-      propertyPath: m_Layer
-      value: 14
-      objectReference: {fileID: 0}
-    - target: {fileID: 1478790040069732, guid: 4f19cb45b6027fd46b768dae90e31858, type: 3}
-      propertyPath: m_Layer
-      value: 14
-      objectReference: {fileID: 0}
-    - target: {fileID: 1756592378815170, guid: 4f19cb45b6027fd46b768dae90e31858, type: 3}
-      propertyPath: m_Layer
-      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 4621139528266798, guid: 4f19cb45b6027fd46b768dae90e31858, type: 3}
       propertyPath: m_RootOrder
@@ -3898,9 +3866,6 @@ Transform:
   - {fileID: 167198284}
   - {fileID: 2119914593}
   - {fileID: 1852526311}
-  - {fileID: 1352554064}
-  - {fileID: 1186878839}
-  - {fileID: 2142965768}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -4003,7 +3968,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5383453487479695605, guid: 7aad2c800f0528d48a5ba81b96316388, type: 3}
       propertyPath: m_RootOrder
-      value: 41
+      value: 42
       objectReference: {fileID: 0}
     - target: {fileID: 5383453487479695605, guid: 7aad2c800f0528d48a5ba81b96316388, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4629,9 +4594,19 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 14
       objectReference: {fileID: 0}
+<<<<<<< HEAD
     - target: {fileID: 1171504399742476, guid: 4f19cb45b6027fd46b768dae90e31858, type: 3}
       propertyPath: m_Layer
       value: 14
+=======
+    - target: {fileID: 1187115938506221664, guid: 7aad2c800f0528d48a5ba81b96316388, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 5383453487479695605, guid: 7aad2c800f0528d48a5ba81b96316388, type: 3}
+      propertyPath: m_RootOrder
+      value: 43
+>>>>>>> parent of 04b30f2 (Reduced volume of bg wind sfx and added temp folder to .gitignore to ignore AltspaceUploader's temp folder)
       objectReference: {fileID: 0}
     - target: {fileID: 1478790040069732, guid: 4f19cb45b6027fd46b768dae90e31858, type: 3}
       propertyPath: m_Layer
@@ -4816,6 +4791,7 @@ Transform:
   - {fileID: 1638493109}
   - {fileID: 939146631}
   - {fileID: 750200105}
+<<<<<<< HEAD
   - {fileID: 945141633}
   - {fileID: 1090290974}
   - {fileID: 1221499401}
@@ -4828,6 +4804,10 @@ Transform:
   - {fileID: 1789335151}
   m_Father: {fileID: 797141478}
   m_RootOrder: 47
+=======
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
+>>>>>>> parent of 04b30f2 (Reduced volume of bg wind sfx and added temp folder to .gitignore to ignore AltspaceUploader's temp folder)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1190640361
 PrefabInstance:
@@ -5890,8 +5870,8 @@ Transform:
   - {fileID: 769075723}
   - {fileID: 197649441}
   - {fileID: 1213489684}
-  m_Father: {fileID: 797141478}
-  m_RootOrder: 46
+  m_Father: {fileID: 0}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1363318360
 PrefabInstance:
@@ -6234,7 +6214,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1436174010}
   - component: {fileID: 1436174011}
-  m_Layer: 14
+  m_Layer: 0
   m_Name: Background (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6372,7 +6352,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 487618, guid: 89bd4543a5407754f9caa0dbd4e0992d, type: 3}
       propertyPath: m_RootOrder
-      value: 38
+      value: 39
       objectReference: {fileID: 0}
     - target: {fileID: 487618, guid: 89bd4543a5407754f9caa0dbd4e0992d, type: 3}
       propertyPath: m_LocalScale.x
@@ -6814,7 +6794,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 442968, guid: 735aa2c3e6e189d428ab152c62770323, type: 3}
       propertyPath: m_RootOrder
-      value: 33
+      value: 34
       objectReference: {fileID: 0}
     - target: {fileID: 442968, guid: 735aa2c3e6e189d428ab152c62770323, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7751,7 +7731,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5383453487479695605, guid: 7aad2c800f0528d48a5ba81b96316388, type: 3}
       propertyPath: m_RootOrder
-      value: 39
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 5383453487479695605, guid: 7aad2c800f0528d48a5ba81b96316388, type: 3}
       propertyPath: m_LocalScale.x
@@ -7947,7 +7927,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 487618, guid: 89bd4543a5407754f9caa0dbd4e0992d, type: 3}
       propertyPath: m_RootOrder
-      value: 36
+      value: 37
       objectReference: {fileID: 0}
     - target: {fileID: 487618, guid: 89bd4543a5407754f9caa0dbd4e0992d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8547,7 +8527,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7630398123015383331, guid: 62fedff8b64bd3e4492ef74465e08430, type: 3}
       propertyPath: m_RootOrder
-      value: 45
+      value: 46
       objectReference: {fileID: 0}
     - target: {fileID: 7630398123015383331, guid: 62fedff8b64bd3e4492ef74465e08430, type: 3}
       propertyPath: m_LocalScale.x
@@ -8727,7 +8707,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 411656, guid: d4abc7df6daac89498360bb42c3d3652, type: 3}
       propertyPath: m_RootOrder
-      value: 34
+      value: 35
       objectReference: {fileID: 0}
     - target: {fileID: 411656, guid: d4abc7df6daac89498360bb42c3d3652, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8793,7 +8773,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5383453487479695605, guid: 7aad2c800f0528d48a5ba81b96316388, type: 3}
       propertyPath: m_RootOrder
-      value: 40
+      value: 41
       objectReference: {fileID: 0}
     - target: {fileID: 5383453487479695605, guid: 7aad2c800f0528d48a5ba81b96316388, type: 3}
       propertyPath: m_LocalScale.x
@@ -9479,7 +9459,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5383453487479695605, guid: 7aad2c800f0528d48a5ba81b96316388, type: 3}
       propertyPath: m_RootOrder
-      value: 44
+      value: 45
       objectReference: {fileID: 0}
     - target: {fileID: 5383453487479695605, guid: 7aad2c800f0528d48a5ba81b96316388, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9697,7 +9677,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2142965768}
-  m_Layer: 14
+  m_Layer: 0
   m_Name: Audio_Manager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9711,14 +9691,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2142965767}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 720615225}
   - {fileID: 1436174010}
-  m_Father: {fileID: 797141478}
-  m_RootOrder: 48
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &5383453487987371307
 PrefabInstance:
