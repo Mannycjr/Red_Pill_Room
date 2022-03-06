@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.microsoft.altspacevr_uploader": {
-      "version": "file:C:/_Universe/VR_World_Building/Resources/com.microsoft.altspacevr_uploader-2.2.19.tgz",
+      "version": "file:C:/_Universe/Adv_UnityVR/Resources/com.microsoft.altspacevr_uploader-2.2.19.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {
