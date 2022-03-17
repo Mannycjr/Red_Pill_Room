@@ -1,12 +1,12 @@
 {
     "uploadEntries": [
         {
-            "AltspaceId": "1931573356612550957",
-            "Name": "Energy Cell Yellow MYC",
+            "AltspaceId": "1959094764645122985",
+            "Name": "Blue Pill MYC",
             "IsEnabled": true,
             "UploadItems": [
                 {
-                    "PrefabFilepath": "Assets\\HiTech\\Energy\\EnergyCell_1\\Prefabs\\EnergyCell_1_2.prefab",
+                    "PrefabFilepath": "Assets\\Prefabs\\Blue_Pill.prefab",
                     "ForAndroid": true,
                     "ForWin": true,
                     "ForMac": true
